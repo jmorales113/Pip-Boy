@@ -66,14 +66,36 @@ body::after {
 }
 
 ul > li.nav-item > a.nav-link {
-    color: #14fe17 !important
+    color: #14fe17 !important;
+    font-size: 32px;
+    line-height: 22px;
+    padding-bottom: 0px;
+}
+
+.nav-item.active::before {
+    content:"";
+    position: absolute;
+    width: 100%;
+    height: 22px;
+    top: 18px;
+    left: 10px;
+    background:#272b23;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-top: 2px solid;
 }
 
 .navbar-light .navbar-nav > li.nav-item > .nav-link,
 .navbar-light .navbar-nav > li.nav-item.active > .nav-link {
     text-align: center;
     width: 50%;
-    margin: auto
+    margin: auto;
+    font-size: 32px;
+    line-height: 22px;
+    padding-bottom: 0px;
+    z-index: 50;
+    position: relative;
+    background: #272b23
 }
 
 .navbar-nav {
@@ -101,4 +123,13 @@ margin: 10px;
 position: fixed;
 display: inline;
 bottom: 0;
+}
+
+.nav.nav-tabs {
+    margin: 20px;
+    border-bottom: none;
+}
+
+.nav.nav-tabs > .nav-item > .nav-link:hover {
+    border: 1px solid transparent;
 }
