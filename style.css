@@ -6,3 +6,11 @@
     margin-top: 100px;
     filter: grayscale(1) sepia(100%) hue-rotate(55deg) saturate(7) brightness(1) contrast(2);
 }
+
+#navbar {
+width: calc(100% - 20px);
+margin: 10px;
+position: fixed;
+display: inline;
+bottom: 0;
+}
