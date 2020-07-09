@@ -282,12 +282,29 @@ font-size: 22px;
     padding: 5px 10px;
     border-radius: 2px;
     color:#14fe17;
+    padding-left: 25px;
+    text-decoration: none !important;
 }
 
 .item-list li a:hover {
     text-decoration: none;
     background-color: #14fe17;
     color: #272b23
+}
+
+.item-list a.active::before {
+    content: "";
+    display: block;
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    background-color: #14fe17;
+    left: 25px;
+    margin-top: 7px;
+}
+
+.item-list a.active:hover::before {
+    background-color:#272b23
 }
 
 .tab-pane.full {
