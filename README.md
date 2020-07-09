@@ -30,7 +30,7 @@ Pip-boy home layout with some functionality. Bootstrap CSS framework used.
 
 ## Deployed Application
 
-https://jmorales113.github.io/JavaScript-Drum-Kit/
+https://jmorales113.github.io/Pip-Boy/
 
 
 ## Questions
