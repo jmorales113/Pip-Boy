@@ -1,9 +1,10 @@
+# Pip-Boy
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ## Description
 
-Hear a distinct sound when pressing down on the letters in the basic position of the keyboard
+Pip-boy home layout with some functionality
 
 ## Table of Contents
 
@@ -31,10 +32,6 @@ Hear a distinct sound when pressing down on the letters in the basic position of
 
 https://jmorales113.github.io/JavaScript-Drum-Kit/
 
-## Acknowledgement
-
-https://javascript30.com
-30 Day Vanilla JS Challenge
 
 ## Questions
 
