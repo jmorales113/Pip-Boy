@@ -4,7 +4,7 @@
 
 ## Description
 
-Pip-boy home layout with some functionality. Bootstrap CSS framework used.
+Pip-boy home layout with Bootstrap CSS framework used.
 
 ## Table of Contents
 
