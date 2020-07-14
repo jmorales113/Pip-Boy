@@ -32,6 +32,10 @@ Pip-boy home layout with Bootstrap CSS framework used.
 
 https://jmorales113.github.io/Pip-Boy/
 
+![Pip](https://user-images.githubusercontent.com/57970306/87481650-9cacb100-c5e4-11ea-98c3-76c1ef6ca565.PNG)
+![Boy](https://user-images.githubusercontent.com/57970306/87481787-e5646a00-c5e4-11ea-9c65-e011354a7077.PNG)
+
+
 
 ## Questions
 
